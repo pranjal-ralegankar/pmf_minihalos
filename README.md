@@ -5,8 +5,7 @@ by the time the coherence length of the magnetic field becomes equivalent to the
 
 The Pk_plot imports functions from several other modules defined below.
 
-The background module solves the background cosmology evolution for standard cosmology. It also includes functions that solve the evolution
-of 
+The background module solves the background cosmology evolution for standard cosmology.
 
 The power_spectra module contains all the functions that determine the spectrum of the PMF source term that induces matter density perturbations.
 The power_spectra module is for non-helical magnetic fields while power_spectra_helical is for maximally helical magnetic fields.
