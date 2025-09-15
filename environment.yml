@@ -1,0 +1,13 @@
+name: pmf_halos
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - matplotlib
+  - pandas=2.2.3
+  - scipy=1.13.1
+  - numpy=1.23.1
+  - gxx
+  - ipykernel
+  - openpyxl

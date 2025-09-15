@@ -1,0 +1,3 @@
+# Installing cosmological solver code
+classy
+mpmath
