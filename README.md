@@ -1,4 +1,4 @@
-# Dark Matter Power Spectrum with Primordial Magnetic Fields
+# Dark Matter Power Spectrum from Primordial Magnetic Fields
 
 This repository contains code to compute the dark matter power spectrum for a given input of primordial magnetic field (PMF) initial values. The initial PMF is defined at the time when the coherence length of the magnetic field becomes equivalent to the photon Silk damping scale. For further details, see [arXiv:2303.11861](https://arxiv.org/abs/2303.11861). Note the code only works for PMF strengths between 1e-6 nG and 0.05 nG today. 
 ## Installation
